@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4",
+    "mongoose-auto-increment": "^5.0.1"
+  }
+}
